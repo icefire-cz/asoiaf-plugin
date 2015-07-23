@@ -9,7 +9,7 @@ $PluginInfo['IceFire'] = array(
     'RequiredPlugins' => FALSE,
     'HasLocale' => FALSE,
     'RegisterPermissions' => FALSE,
-    'Author' => 'Thomas Martin, PavelDedik',
+    'Author' => 'Pavel Dedík',
     'AuthorEmail' => 'dedikx@gmail.com'
 );
 
